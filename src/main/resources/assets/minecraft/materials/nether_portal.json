@@ -1,0 +1,8 @@
+{
+	"layers": [
+		{
+			"vertexSource": "minecraft:shaders/material/any.vert",
+			"fragmentSource": "minecraft:shaders/material/nether_portal.frag"
+		}
+	]
+}
